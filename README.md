@@ -26,12 +26,9 @@ This project presents an interactive GIS dashboard for visualizing the distribut
 ---
 
 ## 🗺️ Dashboard Preview
-*(Add dashboard screenshot here)*
+![Dashboard](dashboard.png)
 
----
 
-## 🔗 Live Dashboard
-*(Add your ArcGIS Online link here)*
 
 ---
 
